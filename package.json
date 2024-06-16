@@ -1,0 +1,23 @@
+{
+  "name": "running-utils",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/eslint-config-airbnb": "^7.0.0",
+    "vite": "^4.4.5",
+    "vue": "^3.3.4",
+    "vue-router": "4",
+    "vue3-simple-icons": "^9.10.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "eslint": "^8.50.0",
+    "eslint-plugin-vue": "^9.17.0"
+  }
+}
